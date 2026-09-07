@@ -1,15 +1,15 @@
 <div align="center">
 
-# Hi, I'm DK (Sp1ke) 👋
+# Hi, I'm introvertov (Daniil) 👋
 
-*17 y.o. dev • coding by touch • constant learner*
+*17 y.o. dev • blind coding • constant learner*
 
 ---
 
 <!-- Бэйджи языков общения -->
-[![Ukrainian](https://img.shields.io/badge/Ukrainian-Fluent-0057B7?style=for-the-badge&logo=ukraine&logoColor=FFD700)]()
+[![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-0057B7?style=for-the-badge&logo=ukraine&logoColor=FFD700)]()
+[![English](https://img.shields.io/badge/English-Fluent-238636?style=for-the-badge)]()
 [![Russian](https://img.shields.io/badge/Russian-Native-333333?style=for-the-badge)]()
-[![English](https://img.shields.io/badge/English-Learning-238636?style=for-the-badge)]()
 
 </div>
 
