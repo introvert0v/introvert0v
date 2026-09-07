@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm introvertov (Daniil) 👋
+# Hi, I'm Daniil 👋
 
 *17 y.o. dev • blind coding • constant learner*
 
